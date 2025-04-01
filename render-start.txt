@@ -1,1 +1,6 @@
-Este es un commit de prueba para Render.
+
+echo "# n8n en Render" >> readme-render.txt
+git add readme-render.txt
+git commit -m "Agrego readme temporal para Render"
+git push origin master
+
